@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
 <!--SheidsBadgeform-->
 ## 🛠Toolkits🛠
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VScode&logoColor=fff"/>
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=fff"/>
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=fff"/>
