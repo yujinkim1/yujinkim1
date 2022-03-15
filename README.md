@@ -5,6 +5,8 @@
 <!--WakatimeStats-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yujinkim1)](https://github.com/anuraghazra/github-readme-stats)
 <!--SheidsBadgeform-->
+## 🚀My Stack⭐️
+
 ## 🛠My Toolkits🛠
 <div align=center>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/>
@@ -17,9 +19,6 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff"/>
 </div>
-
-
-## 🚀My Stack⭐️
 
 #
 
