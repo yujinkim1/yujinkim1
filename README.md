@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff"/>
 </div>
 
-# [⏏️go to top](#header)
+# 
+[⏏️go to top](#header)
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=200&section=footer)
