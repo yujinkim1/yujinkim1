@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=250&section=header&text=Wellcome✋&desc=어서오세요&fontSize=60&fontAlign=2&fontAlignY=2&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=250&section=header&text=Wellcome✋&fontSize=60&fontColor=fff)
 <!--CalculateRanksAPI-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
 <!--WakatimeStats-->
