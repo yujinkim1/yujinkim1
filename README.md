@@ -37,7 +37,7 @@
 
 #
 
-<div align=right>[⏏️ Go to top](#🚀my-stack⭐️)</div>   
+[⏏️ Go to top](#🚀my-stack⭐️){: .text-right}
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=200&section=footer)
