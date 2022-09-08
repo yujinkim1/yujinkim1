@@ -7,20 +7,12 @@
 <!--SheidsBadgeform-->
 ## 🚀My Stack⭐️
 <div align=center>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/>
-</div>
-
-## 📖Studying📖
-<div align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
-    
-</div>   
+</div>
 
 ## 🛠My Toolkits🛠
 <div align=center>
