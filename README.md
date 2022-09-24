@@ -1,9 +1,9 @@
 <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=250&section=header&text=Welcome✋&fontSize=50&fontColor=fff)
-<!--CalculateRanksAPI-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
-<!--WakatimeStats-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yujinkim1)](https://github.com/anuraghazra/github-readme-stats)
+<!--CalculateRanks-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=150&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
+<!--GithubActivityGraph-->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yujinkim1&theme=github-light)](https://github.com/ashtosh00710/github-readme-activiy-graph)
 <!--SheidsBadgeform-->
 ## ⭐️My Stack
 <div align=center>
