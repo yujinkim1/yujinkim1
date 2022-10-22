@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=300&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--SheidsBadgeform-->
-## ⭐️My Stack
+## ⭐️My Skills
 <div align=center>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
     <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat-square&logo=Swift&logoColor=000&textColor=000"/>
@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=fff"/>
     <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff"/>
     <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=fff"/>
     <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=fff"/>
     <img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat-square&logo=MicrosoftOffice&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=fff"/>
