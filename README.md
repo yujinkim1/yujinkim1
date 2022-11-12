@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=Welcome✋&fontSize=40&fontColor=fff)
 <!--MyProfiles-->
 ## 김유진
-[![Velog Badge](https://img.shields.io/badge/너그럽고,진실되게.-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
 [![LinkedIn Badge](https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
 [![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujin7621@me.com)
 
