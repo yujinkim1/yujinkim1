@@ -10,6 +10,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=300&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--SheidsBadgeform-->
+---
+
 ## ⭐️Skills
 <div align=center>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
@@ -19,8 +21,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
 </div>
-
----
 
 ## 🛠Toolkits
 <div align=center>
