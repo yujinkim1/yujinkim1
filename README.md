@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=Hello✋&fontSize=45&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:faf5f5,50:e6dada,100:274046&height=200&section=header&text=Hello✋&fontSize=45&fontColor=fff)
 <!--MyProfiles-->
 ## 김유진
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
@@ -7,7 +7,8 @@
 [![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujin7621@me.com)
 
 <!--CalculateRanks&MostUsedlangeages-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
+<!--30,12c2e9,c471ed,f64f59-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d&bg_color=30,faf5f5,e6dada,274046)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&langs_count=8&hide=cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--SheidsBadgeform-->
 
@@ -39,4 +40,4 @@
 -->
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:274046,50:e6dada,100:faf5f5&height=150&section=footer)
