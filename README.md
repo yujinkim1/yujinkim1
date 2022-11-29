@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:faf5f5,50:e6dada,100:274046&height=200&section=header&text=Hello✋&fontSize=45&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:faf5f5,50:e6dada,100:274046&height=200&section=header&text=Hello✋&fontSize=45&fontColor=2d2d2d)
 <!--MyProfiles-->
 ## 김유진
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
