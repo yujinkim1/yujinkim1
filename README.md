@@ -8,7 +8,7 @@
 
 <!--CalculateRanks&MostUsedlangeages-->
 <!--30,12c2e9,c471ed,f64f59-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d&bg_color=30,faf5f5,e6dada,274046)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d&bg_color=60,faf5f5,e6dada,274046)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&langs_count=8&hide=cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--SheidsBadgeform-->
 
