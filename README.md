@@ -4,7 +4,7 @@
 ## 김유진 | 金裕真
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
 [![LinkedIn Badge](https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
-[![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujin7621@me.com)
+[![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujinkim1.dev@gmail.com)
 
 <!--CalculateRanks&MostUsedlangeages-->
 <!--30,12c2e9,c471ed,f64f59-->
