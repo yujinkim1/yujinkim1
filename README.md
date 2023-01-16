@@ -6,13 +6,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
 [![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujinkim1.dev@gmail.com)
 
-<!--CalculateRanks&MostUsedlangeages-->
-<!--30,12c2e9,c471ed,f64f59-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d&bg_color=60,faf5f5,e6dada,274046)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&langs_count=8&hide=cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--SheidsBadgeform-->
 
-## ⭐️Skills
+## Skills
 <div align=center>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
     <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat-square&logo=Swift&logoColor=000&textColor=000"/>
@@ -23,7 +19,7 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff"/>
 </div>
 
-## 🛠Toolkits
+## Toolkits
 <div align=center>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=fff"/>
@@ -35,9 +31,17 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff"/>
 </div>  
 
+---
+
 <!--GithubActivityGraph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yujinkim1&theme=github-light)](https://github.com/ashtosh00710/github-readme-activiy-graph)
 -->
+
+<!--CalculateRanks&MostUsedlangeages-->
+<!--30,12c2e9,c471ed,f64f59-->
+<!--2d2d2d&bg_color=60,faf5f5,e6dada,274046-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&langs_count=8&hide=cmake&layout=compact&title_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:274046,50:e6dada,100:faf5f5&height=150&section=footer)
