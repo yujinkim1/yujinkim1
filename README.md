@@ -1,23 +1,16 @@
 <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:faf5f5,50:e6dada,100:274046&height=170&section=header&text=Hello✋&fontSize=35&fontColor=2d2d2d)
 <!--MyProfiles-->
-<h1 style="text-align: center"> 김유진 | Yujin Kim | 金裕真 </h1>
-<div align=center>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1"/>
-    <img src="https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111"/>
-    <img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com"/>
-</div> 
+## 김유진 | Yujin Kim | 金裕真
 
-<!--
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
 [![LinkedIn Badge](https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
 [![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujinkim1.dev@gmail.com)
--->
 
 <!--SheidsBadgeform-->
-<!-- # Personal skills -->
 
-<h2 style="text-align: center"> Personal Skills </h2>
+## Personal Skills
+
 <table border="0" align=center>
     <tr>
         <td>
@@ -62,7 +55,8 @@
     </tr>
 </table>
 
-<h2 style="text-align: center"> Toolkits </h2>
+## Toolkits
+
 <div align=center>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=fff"/>
