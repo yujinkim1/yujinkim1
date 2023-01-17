@@ -11,49 +11,46 @@
 
 ## Personal Skills
 
-<table border="0" align=center>
-    <tr>
-        <td>
-            <table border="0" align=center>
-            <th>Group</th>
-            <th>Main</th>
-            <tr>
-                <td>iOS</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
-                    <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
-                    <img src="https://img.shields.io/badge/CoreML-1386A6?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Flutter</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff"/>
-                </td>
-            </tr>
-            <tr>
-                <td>CS vision</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=fff"/>
-                    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=fff&textColor=000"/>
-                    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
-                    <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
-                    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=fff&textColor=000"/>
-                    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=fff&textColor=000"/>
-                </td>
-            </tr>
-            <tr>
-                <td>Others</td>
-                <td>
-                    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
-                    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
-                    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
-                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=2d2d2d"/>
-                </td>
-            </tr>
-        </td>
-    </tr>
-</table>
+<div align=center>
+    <table border="0" align=center>
+        <th>Group</th>
+        <th>Main</th>
+        <tr>
+            <td>iOS</td>
+            <td>
+                <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
+                <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
+                <img src="https://img.shields.io/badge/CoreML-1386A6?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Flutter</td>
+            <td>
+                <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff"/>
+            </td>
+        </tr>
+        <tr>
+            <td>CS vision</td>
+            <td>
+                <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=fff"/>
+                <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=fff&textColor=000"/>
+                <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
+                <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
+                <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=fff&textColor=000"/>
+                <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=fff&textColor=000"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Others</td>
+            <td>
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
+                <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
+                <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=2d2d2d"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## Toolkits
 
