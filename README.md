@@ -1,25 +1,68 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:faf5f5,50:e6dada,100:274046&height=200&section=header&text=Hello✋&fontSize=45&fontColor=2d2d2d)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:faf5f5,50:e6dada,100:274046&height=170&section=header&text=Hello✋&fontSize=35&fontColor=2d2d2d)
 <!--MyProfiles-->
-## 김유진 | Yujin Kim | 金裕真
+<h1 style="text-align: center"> 김유진 | Yujin Kim | 金裕真 </h1>
+<div align=center>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1"/>
+    <img src="https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111"/>
+    <img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com"/>
+</div> 
+
+<!--
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
 [![LinkedIn Badge](https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
 [![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujinkim1.dev@gmail.com)
+-->
 
 <!--SheidsBadgeform-->
+<!-- # Personal skills -->
 
-## Skills
-<div align=center>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat-square&logo=Swift&logoColor=000&textColor=000"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff"/>
-</div>
+<h2 style="text-align: center"> Personal Skills </h2>
+<table border="0" align=center>
+    <tr>
+        <td>
+            <table border="0" align=center>
+            <th>Group</th>
+            <th>Main</th>
+            <tr>
+                <td>iOS</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
+                    <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
+                    <img src="https://img.shields.io/badge/CoreML-1386A6?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Flutter</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff"/>
+                </td>
+            </tr>
+            <tr>
+                <td>CS vision</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=fff"/>
+                    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=fff&textColor=000"/>
+                    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
+                    <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
+                    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=fff&textColor=000"/>
+                    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=fff&textColor=000"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Others</td>
+                <td>
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
+                    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
+                    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
+                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=2d2d2d"/>
+                </td>
+            </tr>
+        </td>
+    </tr>
+</table>
 
-## Toolkits
+<h2 style="text-align: center"> Toolkits </h2>
 <div align=center>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=fff"/>
@@ -33,15 +76,16 @@
 
 ---
 
-<!--GithubActivityGraph
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yujinkim1&theme=github-light)](https://github.com/ashtosh00710/github-readme-activiy-graph)
--->
-
 <!--CalculateRanks&MostUsedlangeages-->
 <!--30,12c2e9,c471ed,f64f59-->
 <!--2d2d2d&bg_color=60,faf5f5,e6dada,274046-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align=center>
+
+[![yujinkim1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&langs_count=8&hide=cmake&layout=compact&title_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:274046,50:e6dada,100:faf5f5&height=150&section=footer)
