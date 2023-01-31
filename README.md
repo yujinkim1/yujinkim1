@@ -1,5 +1,3 @@
-<!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:faf5f5,50:e6dada,100:274046&height=170&section=header&text=Hello✋&fontSize=35&fontColor=2d2d2d)
 <!--MyProfiles-->
 ## 김유진 | Yujin Kim | 金裕真
 
@@ -77,6 +75,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&langs_count=8&hide=cmake&layout=compact&title_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:274046,50:e6dada,100:faf5f5&height=150&section=footer)
