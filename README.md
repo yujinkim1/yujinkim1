@@ -61,17 +61,4 @@
     <img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat-square&logo=MicrosoftOffice&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff"/>
-</div>  
-
----
-
-<!--CalculateRanks&MostUsedlangeages-->
-<!--30,12c2e9,c471ed,f64f59-->
-<!--2d2d2d&bg_color=60,faf5f5,e6dada,274046-->
-
-<div align=center>
-
-[![yujinkim1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim1&count_private=true&card_width=360&title_color=2d2d2d&text_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujinkim1&langs_count=8&hide=cmake&layout=compact&title_color=2d2d2d)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
