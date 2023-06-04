@@ -1,64 +1,83 @@
 <!--MyProfiles-->
-## 김유진 | Yujin Kim | 金裕真
+# Yujin Kim 
+김유진![KO Badge](https://img.shields.io/badge/한-000?style=flat&logoColor=fff) 金裕真![CH Badge](https://img.shields.io/badge/漢-000?style=flat&logoColor=fff)<br/>
 
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
-[![LinkedIn Badge](https://img.shields.io/badge/yujinKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
-[![Mail Badge](https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=fff&link=mailto:yujin7621@me.com)](mailto:yujinkim1.dev@gmail.com)
+<!--Resume Links-->
 
-<!--SheidsBadgeform-->
+### Mobile Engineer
+[Resume]()
 
-## Personal Skills
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
+[![Mail Badge](https://img.shields.io/badge/Send_Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=fff&link=mailto:yujinkim1.dev@gmail.com)](mailto:yujinkim1.dev@gmail.com)
 
-<div align=center>
-    <table border="0" align=center>
-        <th>Group</th>
-        <th>Main</th>
+<!--Interest List-->
+
+### My Interest
+- iOS, Universal App Development
+- Cross-platform Service Development
+- Natural language process, Real-time object detection
+- Google Service(Firebase, Google Maps, ML Kits, Youtube)
+- [UI Design](), [UX Writing]()
+
+<!--Tech Stacks-->
+
+### Tech Stacks
+<div>
+    <table align="center" border="0">
         <tr>
-            <td>iOS</td>
+            <td align="center">Languages</td>
             <td>
-                <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=fff"/>
-                <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
-                <img src="https://img.shields.io/badge/CoreML-1386A6?style=flat-square&logo=Swift&logoColor=fff&textColor=000"/>
+                <img src="https://img.shields.io/badge/Dart-0175C2?style=flate&logo=Dart&logoColor=FFF" /> 
+                <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFE502" />
+                <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openJDK&logoColor=FFF" />
             </td>
         </tr>
         <tr>
-            <td>Flutter</td>
+            <td align="center">Frameworks</td>
             <td>
-                <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff"/>
+                <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat&logo=Dart&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Android-FFF?style=flat&logo=Android&logoColor=3DDC84" />
+                <img src="https://img.shields.io/badge/iOS-000?style=flat&logo=Apple&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=000" />
+                <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat&logo=Swift&logoColor=000" />
             </td>
         </tr>
         <tr>
-            <td>CS vision</td>
+            <td align="center">ML/DL</td>
             <td>
-                <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=fff"/>
-                <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=ScikitLearn&logoColor=fff&textColor=000"/>
-                <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
-                <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=Tensorflow&logoColor=fff&textColor=000"/>
-                <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=fff&textColor=000"/>
-                <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=fff&textColor=000"/>
+                <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=ScikitLearn&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=FFF" /><br />
+                <img src="https://img.shields.io/badge/Core_ML-1386A6?style=flat&logo=Swift&logoColor=FFF" />
             </td>
         </tr>
         <tr>
-            <td>Others</td>
+            <td align="center">Toolkits</td>
             <td>
-                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>
-                <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
-                <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=2d2d2d"/>
+                <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/AndroidStudio-FFF?style=flat&logo=AndroidStudio&logoColor=3DDC84" />
+                <img src="https://img.shields.io/badge/IDEA-FFF?style=flat&logo=IntellijIDEA&logoColor=000"/><br/>
+                <img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat&logo=MicrosoftOffice&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=FFF"/>
+                <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFF" />
             </td>
         </tr>
     </table>
 </div>
 
-## Toolkits
+<!--GitHub Streak Stats-->
+### GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yujinkim1&theme=swift&hide_border=true" />
 
-<div align=center>
-    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat-square&logo=MicrosoftOffice&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff"/>
+---
+
+<!--Visit Counts-->
+<div align="right">
+    <img src="https://visitcount.itsvg.in/api?id=yujinkim1&icon=5&color=12" /><br /><a name="Top">Top</a><small><sup>[⬆️](#yujin-kim)</sup></small>
 </div>
