@@ -76,9 +76,10 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujinkim1&theme=swift&hide_border=true" />
 </div>
+
 ---
 
 <!--Visit Counts-->
 <div align="right">
-    <img src="https://visitcount.itsvg.in/api?id=yujinkim1&icon=5&color=12" /><br /><small><sup>[Top⬆️](#yujin-kim)</sup></small>
+    <img src="https://visitcount.itsvg.in/api?id=yujinkim1&icon=5&color=12" />
 </div>
