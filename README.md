@@ -36,7 +36,7 @@
         <tr>
             <td align="center">Frameworks</td>
             <td>
-                <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat&logo=Dart&logoColor=FFF" />
+                <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat&logo=Flutter&logoColor=FFF" />
                 <img src="https://img.shields.io/badge/Android-FFF?style=flat&logo=Android&logoColor=3DDC84" />
                 <img src="https://img.shields.io/badge/iOS-000?style=flat&logo=Apple&logoColor=FFF" />
                 <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=000" />
