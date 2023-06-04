@@ -1,5 +1,5 @@
 <!--MyProfiles-->
-# Yujin Kim 
+# <a name="yujin-kim"></a> Yujin Kim 
 김유진![KO Badge](https://img.shields.io/badge/한-000?style=flat&logoColor=fff) 金裕真![CH Badge](https://img.shields.io/badge/漢-000?style=flat&logoColor=fff)<br/>
 
 <!--Resume Links-->
@@ -73,11 +73,12 @@
 
 <!--GitHub Streak Stats-->
 ### GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yujinkim1&theme=swift&hide_border=true" />
-
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujinkim1&theme=swift&hide_border=true" />
+</div>
 ---
 
 <!--Visit Counts-->
 <div align="right">
-    <img src="https://visitcount.itsvg.in/api?id=yujinkim1&icon=5&color=12" /><br /><a name="Top">Top</a><small><sup>[⬆️](#yujin-kim)</sup></small>
+    <img src="https://visitcount.itsvg.in/api?id=yujinkim1&icon=5&color=12" /><br /><small><sup>[Top⬆️](#yujin-kim)</sup></small>
 </div>
