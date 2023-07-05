@@ -4,24 +4,24 @@
 
 <!--Resume Links-->
 
-### Mobile Engineer
-[Resume]()
+## Mobile Engineer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
 [![Mail Badge](https://img.shields.io/badge/Send_Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=fff&link=mailto:yujinkim1.dev@gmail.com)](mailto:yujinkim1.dev@gmail.com)
 
 <!--Interest List-->
 
-### My Interest
-- iOS, Universal App Development
+## My Interest
+
 - Cross-platform Service Development
+- Universal and iOS App Development
+- Apple VisionOS, WatchOS App Development
 - Natural language process, Real-time object detection
 - Google Service(Firebase, Google Maps, ML Kits, Youtube)
-- [UI Design](), [UX Writing]()
 
 <!--Tech Stacks-->
 
-### Tech Stacks
+## Tech Stacks
 <div>
     <table align="center" border="0">
         <tr>
@@ -72,7 +72,7 @@
 </div>
 
 <!--GitHub Streak Stats-->
-### GitHub Streak
+## GitHub Streak
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujinkim1&theme=swift&hide_border=true" />
 </div>
