@@ -4,8 +4,6 @@
 
 <!--Resume Links-->
 
-## Mobile Engineer
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
 [![Mail Badge](https://img.shields.io/badge/Send_Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=fff&link=mailto:yujinkim1.dev@gmail.com)](mailto:yujinkim1.dev@gmail.com)
 
