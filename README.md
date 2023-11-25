@@ -3,13 +3,12 @@
 김유진![KO Badge](https://img.shields.io/badge/한-000?style=flat&logoColor=fff) 金裕真![CH Badge](https://img.shields.io/badge/漢-000?style=flat&logoColor=fff)<br/>
 
 <!--Resume Links-->
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/yujinkim1111)](https://www.linkedin.com/in/yujinkim1111)
-[![Mail Badge](https://img.shields.io/badge/Send_Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=fff&link=mailto:yujinkim1.dev@gmail.com)](mailto:yujinkim1.dev@gmail.com)
+### Resume
+- [Link](https://pleasant-daphne-015.notion.site/a6e2c81a985a485fa94dd3ff2cc1542c?pvs=4)
 
 <!--Interest List-->
 
-## My Interest
+### My Interest
 
 - Cross-platform Service Development
 - Universal and iOS App Development
@@ -19,7 +18,7 @@
 
 <!--Tech Stacks-->
 
-## Tech Stacks
+### Tech Stacks
 <div>
     <table align="center" border="0">
         <tr>
@@ -70,7 +69,7 @@
 </div>
 
 <!--GitHub Streak Stats-->
-## GitHub Streak
+### GitHub Streak
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yujinkim1&theme=swift&hide_border=true" />
 </div>
