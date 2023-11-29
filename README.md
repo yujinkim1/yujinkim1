@@ -12,6 +12,10 @@
 
 :globe_with_meridians: [Yujin Kim's blog](https://inblog.ai/yujinkim1)
 
+### Project
+
+[Kkuk: 꾹](https://apps.apple.com/kr/app/kkuk-%EA%BE%B9/id6471813268)
+
 ### Contact
 
 ✉️ yujinkim1.dev@gmail.com
