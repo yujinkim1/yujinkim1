@@ -14,16 +14,16 @@
 
 ### Contact
 
-- E-mail - <yujinkim1.dev@gmail.com>
+이메일 - <yujinkim1.dev@gmail.com>
 
 ## Languages and Tools
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=FFF" /> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=FFF" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flate&logo=Dart&logoColor=FFF" /> <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat&logo=Flutter&logoColor=FFF" /> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=FFF" /> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFF" /> <img src="https://img.shields.io/badge/AndroidStudio-FFF?style=flat&logo=AndroidStudio&logoColor=3DDC84" /> 
 <!-- <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat&logo=Swift&logoColor=000" /> -->
 
----
-
 <!--
+
+---
 
 <h3 align="center"> GitHub Streak </h3>
 <div align="center">
