@@ -1,16 +1,12 @@
-# Hi 👋 it's Yujin here 
+# 김유진
 
-:fire: I'm a passionate self-taught iOS developer from Korea.
-
-:seedling: I'm currently learning Swift
-
-:monocle_face: I'm interested in SwiftUI
+Apple 생태계를 중심으로 Swift 언어를 사용해 개발을 하고 있습니다.
 
 ## Information
 
-- [Yujin Kim's resume](https://pleasant-daphne-015.notion.site/a6e2c81a985a485fa94dd3ff2cc1542c?pvs=4)
+블로그 - [바로가기](https://inblog.ai/yujinkim1)
 
-- [Yujin Kim's blog](https://inblog.ai/yujinkim1)
+이력서 - [바로가기](https://pleasant-daphne-015.notion.site/a6e2c81a985a485fa94dd3ff2cc1542c?pvs=4)
 
 ### Contact
 
@@ -22,7 +18,6 @@
 <!-- <img src="https://img.shields.io/badge/SwiftUI-007FFF?style=flat&logo=Swift&logoColor=000" /> -->
 
 <!--
-
 ---
 
 <h3 align="center"> GitHub Streak </h3>
@@ -31,9 +26,10 @@
 </div>
 
 ---
-
 -->
 
-<div align="right">
+<br />
+
+<div align="center">
     <img src="https://visitcount.itsvg.in/api?id=yujinkim1&icon=5&color=12" alt="Visit count" />
 </div>
