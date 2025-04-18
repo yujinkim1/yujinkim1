@@ -28,10 +28,6 @@
 
 Blog - [바로가기](https://inblog.ai/yujinkim1)
 
----
-
-<div align="center"><img src="https://visitcount.itsvg.in/api?id=yujinkim1&icon=5&color=12" alt="Visit count" /></div>
-
 <!-- 
 <div align="center"><a href="https://github.com/yujinkim1/yujinkim1/tree/main-en">EN</a></div> 
 -->
