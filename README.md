@@ -24,9 +24,6 @@
 ---
 -->
 
-<br />
-<br />
-
 <!-- 
 <div align="center"><a href="https://github.com/yujinkim1/yujinkim1/tree/main-en">EN</a></div> 
 -->
