@@ -26,6 +26,4 @@
 ---
 -->
 
-<!-- 
-<div align="center"><a href="https://github.com/yujinkim1/yujinkim1/tree/main-en">EN</a></div> 
--->
+<p align="center"><a href="https://github.com/yujinkim1/yujinkim1/blob/main-en/README.md"><b>View this README in English</b></p>
